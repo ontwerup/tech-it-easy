@@ -74,7 +74,7 @@ Stop dit in een aparte functie die je voor beide tv's kunt gebruiken.
 * **Opdracht 4d - DOM: Zorg ervoor de informatie op de juiste manier op de pagina wordt weergegeven.**
 
 #### Opdracht 5
-Gebruik de functies die je in de vorige opdracht hebt gemaakt om ALLE tv's weer te geven op de pagina in het juiste format. De prijs moet er ook nog bij.
+Gebruik de functies die je in de vorige opdracht hebt gemaakt om ALLE tv's weer te geven op de pagina in het juiste format, zonder dit acht keer voor iedere tv uit te schrijven. De prijs moet er ook nog bij.   
 
 #### Opdracht 6
 * **Opdracht 6a - JS & DOM:** wat is de totale opbrengst, als we alle exemplaren van ieder type zouden verkopen?

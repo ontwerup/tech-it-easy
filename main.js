@@ -550,7 +550,7 @@ inventory.map((tv) => {
 
 
 // ** -------------------------------------------------- **
-// 5a: wat is de totale opbrengst, als we alle exemplaren van ieder type zouden verkopen?
+// 6a: wat is de totale opbrengst, als we alle exemplaren van ieder type zouden verkopen?
 // Bereken dit en geef het weer op de pagina.
 // ** -------------------------------------------------- **
 
@@ -577,7 +577,7 @@ goalProfit.textContent = `€${getGoalProfit(inventory)},-`;
 goalProfitContainer.appendChild(goalProfit);
 
 // ** -------------------------------------------------- **
-// 5b: hoeveel hebben we tot nu toe verdient? Bereken dit en geef het weer op de pagina
+// 6b: hoeveel hebben we tot nu toe verdient? Bereken dit en geef het weer op de pagina
 // ** -------------------------------------------------- **
 
 // PSEUDO-CODE

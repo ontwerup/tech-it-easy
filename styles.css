@@ -11,6 +11,14 @@ body {
     color: red;
 }
 
+.goal-profit {
+    color: blue;
+}
+
+.current-profit {
+    color: green;
+}
+
 #tv-one {
     display: inline-block;
     border-radius: 4px;

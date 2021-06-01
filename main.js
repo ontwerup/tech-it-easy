@@ -162,8 +162,6 @@ const inventory = [
   },
 ];
 
-// OPDRACHT UITWERKINGEN ---------------------------------
-
 
 // ** -------------------------------------------------- **
 // 1a: Hoeveel exemplaren moeten we nog verkopen?
